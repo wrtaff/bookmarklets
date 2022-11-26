@@ -1,7 +1,7 @@
 javascript: 
 
 /* A simple tool for cites in mediawiki for wwos*/
-
+/* adding another line of comment code */
 
 /* alert('quote is marked'); */
 
